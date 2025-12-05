@@ -1,4 +1,4 @@
-package com.example.module_two.exersize.model;
+package com.example.module_two.task15.model;
 
 public class Car {
 

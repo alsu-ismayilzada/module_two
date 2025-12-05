@@ -1,6 +1,6 @@
-package com.example.module_two.exersize.servlet;
+package com.example.module_two.task15.servlet;
 
-import com.example.module_two.exersize.model.Engine;
+import com.example.module_two.task15.model.Engine;
 import jakarta.servlet.ServletContext;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
