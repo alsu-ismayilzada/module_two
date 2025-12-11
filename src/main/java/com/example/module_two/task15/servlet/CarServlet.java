@@ -12,7 +12,7 @@ import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.logging.Logger;
 
-@WebServlet(urlPatterns = "/cars/*",
+@WebServlet(urlPatterns = "/car/*",
         initParams = {
                 @WebInitParam(name = "manufacturer", value = "Toyota")
         })
